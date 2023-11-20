@@ -1,6 +1,8 @@
 # Aerial-Terrestrial-Multimodal-Robots
 Database of reviewed literature for the review paper entitled _Multi-modal Locomotion: Next Generation Aerial-terrestrial Mobile Robotics_ 
 
+[Request to add publication](https://forms.gle/3sGY15kSz9aD74LS8)
+
 ## Monolithic Additive Designs
 
 ### Gliding Additive Designs

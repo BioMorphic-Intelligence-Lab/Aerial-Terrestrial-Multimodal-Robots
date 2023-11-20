@@ -37,9 +37,9 @@ Theory 2008, 44, 3 513, URL https://www.sciencedirect.com/science/article/ pii/S
 16.	K. Peterson, R. S. Fearing, In IEEE/RSJ International Conference on Intelligent Robots and Systems. 2011 5080–5086, URL https://ieeexplore.ieee.org/abstract/document/6095041.
 17.	K. C. Peterson, P. M. Birkmeyer, R. Dudley, R. S. Fearing, Bioinspiration & Biomimetics 2011, 6,4 046008, URL https://iopscience-iop.org.tudelft.idm.oclc.org/article/10.1088/1748-3182/6/4/046008.
 
-## Wheeled Additive Designs
+### Wheeled Additive Designs
 
-### Passive Wheels
+#### Passive Wheels
 
 18.	C. J. Salaan, K. Tadakuma, Y. Okada, Y. Sakai, K. Ohno, S. Tadokoro, IEEE Robotics and Automation Letters 2019, 4, 3 2568, URL https://ieeexplore.ieee.org/document/8624441.
 19.	J. Yang, Y. Zhu, L. Zhang, Y. Dong, Y. Ding, IEEE Robotics and Automation letters 2022, 7, 49199, URL https://ieeexplore.ieee.org/document/9832723.
@@ -53,7 +53,7 @@ Theory 2008, 44, 3 513, URL https://www.sciencedirect.com/science/article/ pii/S
 27.	D. D. Fan, R. Thakker, T. Bartlett, M. B. Miled, L. Kim, E. Theodorou, A. Agha-mohammadi, In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2019 3070–3077, URL https://ieeexplore.ieee.org/document/8968276, ISSN: 2153-0866.
 28.	M. Itasse, J.-M. Moschetta, Y. Ameho, R. Carr, International Journal of Micro Air Vehicles 2011, 3, 4 229, URL https://doi.org/10.1260/1756-8293.3.4.229.
     
-### Active Wheels
+#### Active Wheels
 
 30.	D. Zhang, C. Guo, H. Ren, P. Zhu, M. Xu, H. Lu, In IEEE International Conference on Real-time Computing and Robotics. Xining, China, 2021 393–398, URL https://ieeexplore.ieee.org/document/9517607.
 
@@ -64,27 +64,27 @@ Theory 2008, 44, 3 513, URL https://www.sciencedirect.com/science/article/ pii/S
 35.	B. Li, L. Ma, D. Wang, Y. Sun, IET Cyber-Systems and Robotics 2021, 3, 2 103, URL https://onlinelibrary.wiley.com/doi/abs/10.1049/csy2.12014.
 36.	S. Kaneki, S. Yokota, D. Chugo, H. Hashimoto, In 2018 IEEE International Conference on Industrial Technology. 2018 1961–1966, URL https://ieeexplore.ieee.org/document/8352487.
 
-## Complete Enclosure
+### Complete Enclosure
 
-### Cylindrical Cages
+#### Cylindrical Cages
 
 36.	A. Kalantari, M. Spenko, In 2013 IEEE International Conference on Robotics and Automation.2013 4445–4450, URL https://ieeexplore.ieee.org/document/6631208.
 37.	M. Yamada, M. Nakao, Y. Hada, N. Sawasaki, In 2017 International Conference on Unmanned Aircraft Systems (ICUAS). IEEE, Miami, FL, USA, 2017 1014–1021, URL https://ieeexplore.ieee.org/document/7991308.
     
-### Spherical Cages
+#### Spherical Cages
 
 38.	A. Briod, P. Kornatowski, J.-C. Zufferey, D. Floreano, Journal of Field Robotics 2014, 31, 4 496, URL https://doi.org/10.1002/rob.21495.
 39.	S. Mizutani, Y. Okada, C. J. Salaan, T. Ishii, K. Ohno, S. Tadokoro, In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2015 1271–1278, URL https://ieeexplore.ieee.org/abstract/document/7353532.
 40.	S. Atay, M. Bryant, G. Buckner, Journal of Mechanisms and Robotics 2021, 13, 5, URL https://doi.org/10.1115/1.4050831.
 41.	C. J. Dudley, A. C. Woods, K. K. Leang, In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, Hamburg, Germany, 2015 5863–5869, URL https://ieeexplore.ieee.org/document/7354210.
     
-### Toroidal Cages
+#### Toroidal Cages
 
 42.	H. Jia, S. Bai, R. Ding, J. Shu, Y. Deng, B. L. Khoo, P. Chirarattananon, IEEE-ASME Transactions on Mechatronics 2022, 1–11, URL https://ieeexplore.ieee.org/document/9761826.
 43.	K. Kawasaki, M. Zhao, K. Okada, M. Inaba, In 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems. 2013 1880–1885, URL https://ieeexplore.ieee.org/document/6696605.
 44.	Z. Zheng, J. Wang, Y. Wu, Q. Cai, H. Yu, R. Zhang, J. Tu, J. Meng, G. Lu, F. Gao, RollerQuadrotor: A Novel Hybrid Terrestrial/Aerial Quadrotor with Unicycle-Driven and Rotor-Assisted Turning, 2023, URL http://arxiv.org/abs/2303.00668, ArXiv:2303.00668 [cs].
 
-## Monolithic Adaptive
+## Monolithic Adaptive Designs
 
 ### Morphing Body
 
@@ -117,7 +117,7 @@ Propeller-based
 2021, 7, 1 223, URL https://ieeexplore.ieee.org/document/9591382.
 59.	L. Daler, Ph.D. thesis, EPFL, Lausanne, 2015, URL https://infoscience.epfl.ch/record/208777?ln=en
 
-## Multi-vehicle
+## Multivehicle Assembly and Cooperation
 
 ### One Agent Carrying Another
 

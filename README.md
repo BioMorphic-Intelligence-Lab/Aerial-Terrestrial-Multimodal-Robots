@@ -12,7 +12,7 @@ The contents of this repository are licensed under a **CC-BY 4.0** (see [CC-BY-4
 [Request to add publication](https://forms.gle/3sGY15kSz9aD74LS8)
 
 ## How to cite this work
-When you use this repository, please cite this database with (DOI:10.4121/b23850c5-1eef-4a13-955e-b6909a1e93ac)[10.4121/b23850c5-1eef-4a13-955e-b6909a1e93ac]
+When you use this repository, please cite this database with [DOI:10.4121/b23850c5-1eef-4a13-955e-b6909a1e93ac](10.4121/b23850c5-1eef-4a13-955e-b6909a1e93ac)
 
 ## Cite the Review Paper
 Ramirez, J. P., & Hamaza, S. (2023). Multimodal Locomotion: Next Generation Aerial–Terrestrial Mobile Robotics. Advanced Intelligent Systems. https://doi.org/10.1002/aisy.202300327

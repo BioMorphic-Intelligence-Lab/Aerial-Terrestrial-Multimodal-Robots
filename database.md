@@ -104,12 +104,14 @@ Theory 2008, 44, 3 513, URL https://www.sciencedirect.com/science/article/ pii/S
 53.	A. Fabris, E. Aucone, S. Mintchev, Advanced Intelligent Systems 2022, 2200113–2200113, URL https://onlinelibrary-wiley-com.tudelft.idm.oclc.org/doi/full/10.1002/aisy.202200113.
 
 ### Morphing Wing
+
 #### Jumping/ Walking
 54.	M. A. Woodward, M. Sitti, In 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems. 2011 556–561, URL https://ieeexplore.ieee.org/document/6095108, ISSN: 2153-0866.
 55.	M. A. Woodward, M. Sitti, The International Journal of Robotics Research 2014, 33, 12 1511, URL https://journals.sagepub.com/doi/10.1177/0278364914541301.
 56.	W. D. Shin, J. Park, H.-W. Park, In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 2018 8158–8164, URL https://ieeexplore.ieee.org/document/8594210.
 57.	A. Vidyasagar, J.-C. Zufferey, D. Floreano, M. Kovac, Bioinspiration & Biomimetics 2015, 10, 2025006, URL https://dx.doi.org/10.1088/1748-3190/10/2/025006.
-Propeller-based
+
+#### Propeller-based
 58.	C. Vourtsis, W. J. Stewart, D. Floreano, IEEE Robotics and Automation Letters 
 2021, 7, 1 223, URL https://ieeexplore.ieee.org/document/9591382.
 59.	L. Daler, Ph.D. thesis, EPFL, Lausanne, 2015, URL https://infoscience.epfl.ch/record/208777?ln=en
@@ -128,7 +130,7 @@ Propeller-based
 62.	N. Michael, S. Shen, K. Mohta, V. Kumar, K. Nagatani, Y. Okada, S. Kiribayashi, K. Otake, K. Yoshida, K. Ohno, E. Takeuchi, S. Tadokoro, In K. Yoshida, S. Tadokoro, editors, Field and Service Robotics: Results of the 8th International Conference, Springer Tracts in Advanced Robotics, 33–47. Springer, Berlin, Heidelberg, ISBN 978-3-642-40686-7, 2014, URL https://doi.org/10.1007/978-3-642-40686-7_3.
 63.	C. J. Rose, P. Mahmoudieh, R. S. Fearing, In 2015 IEEE International Conference on Robotics and Automation (ICRA). 2015 4029–4035, URL https://ieeexplore.ieee.org/document/7139762, ISSN: 1050-4729.
 
-### Multi-assembly
+### Multirobot Assembly: Combining Separate Robots
 
 64.	A. Agha-mohammadi, A. Tagliabue, S. Schneider, B. Morrell, M. Pavone, J. D. Hofgartner, I. Nesnas, K. Carpenter, R. Amini, A. Kalantari, A. Babuscia, J. Bayandor, J. I. Lunine, The Shapeshifter: a Morphing, Multi-Agent, Multi-Modal Robotic Platform for the Exploration of Titan (preprint version)., Technical report, California Insitute of Technology, 2020, URL https://ntrs.nasa.gov/api/citations/20190033457/downloads/20190033457.pdf.
  

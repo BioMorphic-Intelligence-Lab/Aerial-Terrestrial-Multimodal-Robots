@@ -8,7 +8,7 @@ The database contains literature references of drone prototypes distinguishing a
 
 Within each category, subcategories have been defined according to their forms, structures and mechanisms of movement.
 
-The references go from 2000 to 2023 adding up a total of 64 prototypes.
+The references go from years 2000 to 2023 adding up a total of 64 prototypes.
 
 See the associated peer reviewed publication for further analysis on the classification, and the advantages and current limitations of each (sub)category.
 

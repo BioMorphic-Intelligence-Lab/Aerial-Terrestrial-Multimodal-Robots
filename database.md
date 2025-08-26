@@ -1,4 +1,4 @@
-# Aerial-Terrestrial-Multimodal-Robots
+# Aerial Terrestrial Multimodal Robots Database
 
 ## Monolithic Additive Designs
 
